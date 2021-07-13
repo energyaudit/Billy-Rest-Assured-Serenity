@@ -1,5 +1,5 @@
 #@shopping
-@singlefeature
+#@singlefeature
 Feature: Shopping
 
 	Scenario: Track my budget

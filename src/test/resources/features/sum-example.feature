@@ -1,5 +1,5 @@
 #@onecolsum
-@singlefeature
+#@singlefeature
 Feature: Cucumber one column sum.
 
   Scenario: The sum of a list of numbers should be calculated
